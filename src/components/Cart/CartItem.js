@@ -1,7 +1,4 @@
-import React, { Component } from "react";
-import style from "styled-components";
-import { ProductConsumer } from "../../Context";
-import { Button } from "../Button";
+import React from "react";
 
 export default function CartItem({ item, value }) {
   const { id, title, img, count, total, price } = item;
