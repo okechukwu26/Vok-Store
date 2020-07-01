@@ -31,7 +31,7 @@ export default class Modal extends Component {
                       <h3 className=" mt-2 font-weight-bold">{title}</h3>
                       <p className="lead mt-2 text-muted">
                         {" "}
-                        price : <span>#</span>
+                        price : <span>$</span>
                         {price}
                       </p>
                       <div className="mb-4">

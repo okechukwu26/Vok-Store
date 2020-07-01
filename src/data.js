@@ -2,7 +2,7 @@ export const storeProducts = [
   {
     id: 1,
     title: "Google Pixel -pink",
-    price: 20000,
+    price: 40,
     img: "img/marketplace.jpg",
     company: "Vok",
     info: `Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -20,7 +20,7 @@ export const storeProducts = [
     id: 2,
     title: "Google laptop -pink",
     img: "img/marketplace.jpg",
-    price: 50000,
+    price: 40,
     company: "Vok",
     info: `Lorem ipsum dolor sit amet consectetur adipisicing elit.
        Facere, quam,si quae odio animi dolores ullam optio consequuntur ab,
@@ -37,7 +37,7 @@ export const storeProducts = [
     id: 3,
     title: "Google phone -pink",
     img: "img/desk.jpg",
-    price: 10000,
+    price: 43,
     company: "Vok",
     info: `Lorem ipsum dolor sit amet consectetur adipisicing elit.
        Facere, quam,si quae odio animi dolores ullam optio consequuntur ab,
@@ -54,7 +54,7 @@ export const storeProducts = [
     id: 4,
     title: "Google Pixel -pink",
     img: "img/pap.jpg",
-    price: 3000,
+    price: 45,
     company: "Vok",
     info: `Lorem ipsum dolor sit amet consectetur adipisicing elit.
        Facere, quam,si quae odio animi dolores ullam optio consequuntur ab,
@@ -71,7 +71,7 @@ export const storeProducts = [
     id: 5,
     title: "Google Pixel -pink",
     img: "img/df.jpg",
-    price: 20000,
+    price: 50,
     company: "Vok",
     info: `Lorem ipsum dolor sit amet consectetur adipisicing elit.
        Facere, quam,si quae odio animi dolores ullam optio consequuntur ab,
@@ -88,7 +88,7 @@ export const storeProducts = [
     id: 6,
     title: "Google Pixel -pink",
     img: "img/df.jpg",
-    price: 20000,
+    price: 50,
     company: "Vok",
     info: `Lorem ipsum dolor sit amet consectetur adipisicing elit.
        Facere, quam,si quae odio animi dolores ullam optio consequuntur ab,
@@ -104,7 +104,7 @@ export const storeProducts = [
   {
     id: 7,
     title: "Google Pixel -pink",
-    price: 20000,
+    price: 43,
     company: "Vok",
     img: "img/desk.jpg",
     info: `Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -121,7 +121,7 @@ export const storeProducts = [
   {
     id: 8,
     title: "Google Pixel -pink",
-    price: 20000,
+    price: 45,
     company: "Vok",
     img: "img/pap.jpg",
     info: `Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -140,7 +140,7 @@ export const storeProducts = [
 export const detailProduct = {
   id: 9,
   title: "Google Pixel -pink",
-  price: 20000,
+  price: 40,
   company: "Vok",
   img: "img/marketplace.jpg",
   info: `Lorem ipsum dolor sit amet consectetur adipisicing elit.
